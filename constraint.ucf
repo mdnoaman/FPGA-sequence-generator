@@ -1,0 +1,19 @@
+# ±÷”
+NET "CLK" LOC = P56;
+
+#UART
+NET "TXD" LOC = P59;
+NET "RXD" LOC = P55;
+
+#LED
+NET "LED[0]" LOC = P134;
+NET "LED[1]" LOC = P133;
+NET "LED[2]" LOC = P132;
+NET "LED[3]" LOC = P131;
+NET "LED[4]" LOC = P127;
+NET "LED[5]" LOC = P126;
+NET "LED[6]" LOC = P124;
+NET "LED[7]" LOC = P123;
+
+#button
+NET "rst" LOC = p38;
